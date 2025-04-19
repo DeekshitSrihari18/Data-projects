@@ -34,7 +34,5 @@ This project presents a data visualization dashboard built using **Tableau**, fo
 #### 🙋‍♀️ About Me
 I'm Deekshita, a data enthusiast passionate about transforming raw data into meaningful stories. This dashboard is part of my portfolio showcasing my Tableau and data visualization skills.
 
----
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/gokavarapu-deekshita-srihari-b7b8851b1/) or explore my other data projects!
 
