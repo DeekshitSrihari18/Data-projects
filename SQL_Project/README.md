@@ -39,9 +39,9 @@ This script can be used as a template for cleaning customer data, product invent
 4. Modify table and column names as needed for your specific dataset
 
 ## 📚 What I Learned
--Practical SQL data cleaning techniques
--Importance of data consistency and standardization
--Efficient SQL query writing and debugging
+- Practical SQL data cleaning techniques
+- Importance of data consistency and standardization
+- Efficient SQL query writing and debugging
 
 ## 📌 Notes
 
