@@ -36,5 +36,5 @@ I'm Deekshita, a data enthusiast passionate about transforming raw data into mea
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or explore my other data projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/gokavarapu-deekshita-srihari-b7b8851b1/) or explore my other data projects!
 
