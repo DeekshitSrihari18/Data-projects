@@ -22,9 +22,9 @@ This project showcases my SQL skills by performing **data cleaning** operations 
 
 ## 🔍 Key SQL Techniques Used
 `UPDATE`, `DELETE`, `ALTER TABLE`, `REPLACE`, `TRIM`, `CASE WHEN`
-CTEs (Common Table Expressions)
-Joins for data validation
-Conditional logic for formatting
+- CTEs (Common Table Expressions)
+- Joins for data validation
+- Conditional logic for formatting
 
 ## 📊 Use Case
 This script can be used as a template for cleaning customer data, product inventories, transaction logs, or any structured tabular dataset that requires:
