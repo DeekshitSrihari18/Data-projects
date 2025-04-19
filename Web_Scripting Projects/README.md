@@ -11,11 +11,12 @@ This project demonstrates how to perform **web scraping** using `BeautifulSoup` 
 - `pandas` – for data cleaning, transformation, and analysis
 
 #### 📊 Project Workflow
-1. **Selected a website** to scrape data (please include the name or URL in your repo if allowed)
+1. **Selected a website** to scrape data ([List_of_largest_companies_in_the_United_States_by_revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue))
 2. Sent requests and parsed the webpage using `BeautifulSoup`
 3. Extracted relevant data such as titles, prices, tags, or table contents
 4. Converted the extracted data into a **structured pandas DataFrame**
-5. Performed **cleaning, formatting, and basic EDA** (null handling, deduplication, filtering, etc.)
+5. Saved the DataFrame as a CSV file (`Largest_Companies.csv`)
+6. Performed **cleaning, formatting, and basic EDA** (null handling, deduplication, filtering, etc.)
 
 #### 🔍 What I Learned
 - How to fetch and parse web data using `BeautifulSoup`
@@ -25,16 +26,8 @@ This project demonstrates how to perform **web scraping** using `BeautifulSoup` 
 
 #### 📁 How to Use
 1. Clone this repository
-2. Open the Jupyter Notebook (`.ipynb` file)
+2. Open the Jupyter Notebook (`Scraping Data from a Real Website + Pandas.ipynb` file)
 3. Run each cell to scrape, process, and analyze the data
 4. Customize the scraper for other websites as needed
 
-#### ⚠️ Disclaimer
-Make sure to respect the website's `robots.txt` file and terms of service before scraping. This project is for educational purposes only.
 
-#### 🙋‍♀️ About Me
-I'm Deekshita, a data engineer with experience in Python, data scraping, and analysis. This project showcases my ability to work with unstructured web data and derive insights programmatically.
-
----
-
-Check out my [LinkedIn](https://www.linkedin.com/) or explore more of my data projects here on GitHub!
