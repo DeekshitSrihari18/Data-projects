@@ -17,9 +17,6 @@ This Power BI dashboard project provides a detailed and interactive visualizatio
   - **Joining Year**
   - **Gender**
 - **Custom background and layout** designed using Canva for a clean, engaging UI.
-
-![Home Page](Page1.png)
-
 ---
 
 ### Loan Analysis Page
@@ -30,9 +27,6 @@ This Power BI dashboard project provides a detailed and interactive visualizatio
   - Credit Card Balance & Business Lending
   - Loan split by Nationality and Income Bands
 - Includes filters for **gender**, **relationship type**, and **advisor ID**.
-
-![Loan Analysis](Page2.png)
-
 ---
 
 ### Deposit Analysis Page
@@ -42,9 +36,6 @@ This Power BI dashboard project provides a detailed and interactive visualizatio
   - Foreign Currency Amount
   - Account balances for Checking and Savings
   - Fee Structure and Loyalty Classifications
-
-![Deposit Analysis](Page3.png)
-
 ---
 
 ### Summary Page
@@ -54,9 +45,6 @@ This Power BI dashboard project provides a detailed and interactive visualizatio
   - Investment advisors, credit card statistics, and customer segmentation
 - Allows detailed slicing by:
   - Relationship, Gender, Risk, Loyalty, and Age Category
-
-![Summary](Page4.png)
-
 ---
 
 ## Tools & Technologies
