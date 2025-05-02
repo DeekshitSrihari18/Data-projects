@@ -1,4 +1,4 @@
-# 🏦 Banking Dashboard - Power BI Project
+# Banking Dashboard - Power BI Project
 
 ## Project Overview
 This Power BI dashboard project provides a detailed and interactive visualization of key banking metrics including loans, deposits, accounts, and customer demographics. Built using **Power BI** and custom-designed with **Canva** for aesthetics, this multi-page dashboard gives users the ability to explore different aspects of banking operations efficiently.
